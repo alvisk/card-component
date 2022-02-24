@@ -21,7 +21,7 @@ export default function Home() {
 				</p>
 
 				<div className={styles.grid}>
-					<a href='https://nextjs.org/docs' className={styles.card}>
+					<a href='' className={styles.card}>
 						<article>
 							<button className='yellow_button'>
 								<h3>Fundraise</h3>
